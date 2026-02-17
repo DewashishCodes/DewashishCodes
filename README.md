@@ -33,7 +33,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/DewashishHL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:DewashishHL">
+
   </a>
 </div>
 
@@ -42,6 +43,17 @@
 <p align="center">🔬 <b>AI Research Intern at SCAAI</b>, Pune<br>🥈 <b>2nd </b>Runner-Up out of 600+ teams in Google Developer Group's 2Fast2Hack<br>🎯 Ranked <b>Top 180 among 46,178</b> participants in Bajaj Finserv HackRx 6.0</p>
 
 ###
+## Current Projects
+- 🐬 [Dolphin](https://github.com/DewashishCodes/dolphin) –Open-source persistent memory infrastructure for LLM applications.
+- 🔥 [VisualTorch](https://github.com/DewashishCodes/VisualTorch) –A local-first Visual Compiler and IDE prototype for PyTorch.
+- 🏮 [RedLantern](https://github.com/DewashishCodes/RedLantern) -Token efficiency optimizer for Google AI studio, converts prompt to mandarin to save tokens upto 68% in some cases.
+- 🧠 [E2E Multimodal RAG Pipeline](https://github.com/DewashishCodes/HackrX6.0_Claud9) -Multi modal industry grade RAG pipeline to process 800+ Page documents and gain inference withing 18 sec.
+- 🪗 [amuseUSB](http://github.com/DewashishCodes/amuseUSB) -Scan existing songs,generate AI recommendations and batch-downloads new MP3 tracks directly into your USB drive.
+- 🔍 [OCR-Forge-CLI](https://github.com/DewashishCodes/OCR-Forge-CLI) -A smart command-line agent that captures screen text, processes it with OCR, and responds with LLM-powered answers.
+- 💻 [Atorres-Studio](https://github.com/DewashishCodes/Attores-Studio) -AI First IDE prototype built to compile python. With multiwindow support and live AI Agent.
+
+###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DewashishCodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
