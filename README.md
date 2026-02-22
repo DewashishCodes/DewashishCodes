@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">🔬 <b>AI Research Intern at SCAAI</b>, Pune<br>🥈 <b>2nd </b>Runner-Up out of 600+ teams in Google Developer Group's 2Fast2Hack<br>🎯 Ranked <b>Top 180 among 46,178</b> participants in Bajaj Finserv HackRx 6.0</p>
+<p align="center">🖥️ <b>SDE Intern<b> @ Invest4Edu<br>🔬 <b>AI Research Intern at SCAAI</b>, Pune<br>🥈 <b>2nd </b>Runner-Up out of 600+ teams in Google Developer Group's 2Fast2Hack<br>🎯 Ranked <b>Top 180 among 46,178</b> participants in Bajaj Finserv HackRx 6.0</p>
 
 ###
 ## Current Projects
