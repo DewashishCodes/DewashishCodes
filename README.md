@@ -45,6 +45,7 @@
 ###
 ## Current Projects
 - 🐬 [Dolphin](https://github.com/DewashishCodes/dolphin) –Open-source persistent memory infrastructure for LLM applications.
+- 📄 [CVVC](https://github.com/DewashishCodes/cvvc) –Curriculum Vitae Version control CLI tool (git for resumes) built in GOlang.
 - 🔥 [VisualTorch](https://github.com/DewashishCodes/VisualTorch) –A local-first Visual Compiler and IDE prototype for PyTorch.
 - 🏮 [RedLantern](https://github.com/DewashishCodes/RedLantern) -Token efficiency optimizer for Google AI studio, converts prompt to mandarin to save tokens upto 68% in some cases.
 - 🧠 [E2E Multimodal RAG Pipeline](https://github.com/DewashishCodes/HackrX6.0_Claud9) -Multi modal industry grade RAG pipeline to process 800+ Page documents and gain inference withing 18 sec.
