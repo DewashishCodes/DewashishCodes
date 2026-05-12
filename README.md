@@ -44,6 +44,8 @@
 
 ###
 ## Current Projects
+- 🛡️ [BharatPrivacyPrint](https://github.com/DewashishCodes/bharatprivacyprint) –Zero-knowledge document sharing PWA for Tier 2/3 India. Aadhaar/PAN
+  links that self-destruct after printing because 85K+ annual frauds start at print shops.
 - 🐬 [Dolphin](https://github.com/DewashishCodes/dolphin) –Open-source persistent memory infrastructure for LLM applications.
 - 📄 [Mycelium](https://github.com/DewashishCodes/mycelium) –Curriculum Vitae Version control CLI tool (basically git for resumes) built in GOlang.
 - 🔥 [VisualTorch](https://github.com/DewashishCodes/VisualTorch) –A local-first Visual Compiler and IDE prototype for PyTorch.
