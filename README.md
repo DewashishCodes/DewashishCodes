@@ -44,6 +44,8 @@
 
 ###
 ## Current Projects
+- 📊 [Tokenmeter](https://github.com/DewashishCodes/tokenmeter) — Local-first Claude Code token usage dashboard for
+  Windows. Costs, heatmap, cache savings & a pixel companion.
 - 🛡️ [BharatPrivacyPrint](https://github.com/DewashishCodes/bharatprivacyprint) –Zero-knowledge document sharing PWA for Tier 2/3 India. Aadhaar/PAN
   links that self-destruct after printing because 85K+ annual frauds start at print shops.
 - 🐬 [Dolphin](https://github.com/DewashishCodes/dolphin) –Open-source persistent memory infrastructure for LLM applications.
