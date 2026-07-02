@@ -59,6 +59,10 @@
 
 ###
 
+## Research
+
+- 📄 **IEEE IRAI 2026** — Published research on diffusion-based synthetic EEG generation
+- 🧠 [DeepMind HOPE (PyTorch)](https://github.com/DewashishCodes/Nested-Learning) — Reimplemented the HOPE architecture from scratch with differentiable memory and nested optimization. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DewashishCodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
