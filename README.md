@@ -44,6 +44,7 @@
 
 ###
 ## Current Projects
+- 🏛️ [Takshashila](https://github.com/DewashishCodes/takshashila) – Multi-agent Claude Code orchestration platform with persistent agent workspaces, long-term memory, real terminals, and visual task routing.
 - 📊 [Tokenmeter](https://github.com/DewashishCodes/tokenmeter) — Local-first Claude Code token usage dashboard for
   Windows. Costs, heatmap, cache savings & a pixel companion.
 - 🛡️ [BharatPrivacyPrint](https://github.com/DewashishCodes/bharatprivacyprint) –Zero-knowledge document sharing PWA for Tier 2/3 India. Aadhaar/PAN
