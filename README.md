@@ -44,7 +44,7 @@
 
 ###
 ## Current Projects
-- 💰 [Janus](https://github.com/DewashishCodes/RZP_buildathon) – AI revenue-recovery agent for failed payments, broken mandates & B2B receivables. Root-cause detection, guardrailed recovery actions across SMS/email/voice, and a full per-case audit trail. Built for the Razorpay Buildathon.
+- 💰 [Janus](https://github.com/DewashishCodes/Janus) – AI revenue-recovery agent for failed payments, broken mandates & B2B receivables. Root-cause detection, guardrailed recovery actions across SMS/email/voice, and a full per-case audit trail. Built for the Razorpay Buildathon.
 - 🏛️ [Takshashila](https://github.com/DewashishCodes/takshashila) – Multi-agent Claude Code orchestration platform with persistent agent workspaces, long-term memory, real terminals, and visual task routing.
 - 📊 [Tokenmeter](https://github.com/DewashishCodes/tokenmeter) — Local-first Claude Code token usage dashboard for
   Windows. Costs, heatmap, cache savings & a pixel companion.
