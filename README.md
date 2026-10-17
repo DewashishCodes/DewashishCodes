@@ -1,86 +1,88 @@
-<h1 align="center">Hey 👋 I'm Dewashish Lambore</h1>
-
-###
-
-<!-- Tech stack icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+
+# Dewashish Lambore
+
+**Founder of Yap · AI engineer · I build products people actually use**
+
+<a href="https://getyap.pages.dev"><img src="https://img.shields.io/badge/Yap-D2E823?style=for-the-badge&logoColor=black" height="25" alt="Yap" /></a>
+<a href="https://www.linkedin.com/in/dewashish-lambore-927048318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
+<a href="https://x.com/DewashishHL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25"/></a>
+
 </div>
 
-<!-- AI / GenAI badges -->
-<div align="center" style="margin-top: 12px;">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hermes-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0F6E56?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
+---
 
-###
+### 🚀 Building
+
+<table>
+<tr>
+<td width="72" valign="top"><a href="https://getyap.pages.dev"><img src="yap-logo.svg" width="56" alt="Yap logo" /></a></td>
+<td>
+<b><a href="https://getyap.pages.dev">Yap</a></b> — voice typing for Android, built for how India talks.<br>
+Speak in Hinglish, English, Hindi or Marathi and Yap types clean, ready-to-send text in any app, even turning Hinglish into polished English. Floating dictation bubble, AI cleanup, voice editing and read-aloud, on a Cloudflare Workers backend. <b>Now in early access.</b><br>
+<a href="https://getyap.pages.dev">Website</a> · <a href="https://instagram.com/yap.voice">Instagram</a> · <a href="https://github.com/yap-voice">GitHub</a>
+</td>
+</tr>
+</table>
+
+### 💼 Now
+
+- 🎙️ **Founder**, [Yap](https://getyap.pages.dev)
+- 🔮 **Founding Engineer**, Astrowithin
+- 🖥️ **AI Research**, SCAAI, Pune
+
+### 🏆 Highlights
+
+- 📄 **IEEE IRAI 2026**: published research on diffusion-based synthetic EEG generation
+- 🎓 **Amazon ML Summer School 2026**
+- 🥈 **2nd Runner-Up** of 600+ teams, Google Developer Group's 2Fast2Hack
+- 🎯 **Top 180 of 46,178**, Bajaj Finserv HackRx 6.0
+
+---
+
+### 🛠️ Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI agents & infrastructure**
+
+- 💰 [**Janus**](https://github.com/DewashishCodes/Janus): AI revenue-recovery agent for failed payments and B2B receivables, with guardrailed actions and a full audit trail. Razorpay Buildathon.
+- 🏛️ [**Takshashila**](https://github.com/DewashishCodes/takshashila): multi-agent Claude Code orchestration with persistent workspaces and memory.
+- 🐬 [**Dolphin**](https://github.com/DewashishCodes/dolphin): open-source persistent memory for LLM apps.
+- 🧠 [**Multimodal RAG**](https://github.com/DewashishCodes/HackrX6.0_Claud9): answers over 800+ page documents in under 18 s.
+- 🧬 [**DeepMind HOPE in PyTorch**](https://github.com/DewashishCodes/Nested-Learning): from-scratch reimplementation with differentiable memory.
+
+</td>
+<td valign="top" width="50%">
+
+**🧰 Tools & products**
+
+- 📊 [**Tokenmeter**](https://github.com/DewashishCodes/tokenmeter): local-first Claude Code usage dashboard for Windows.
+- 🛡️ [**BharatPrivacyPrint**](https://github.com/DewashishCodes/bharatprivacyprint): Aadhaar/PAN links that self-destruct after printing.
+- 📄 [**Mycelium**](https://github.com/DewashishCodes/mycelium): git for resumes, a CLI in Go.
+- 🔥 [**VisualTorch**](https://github.com/DewashishCodes/VisualTorch): visual compiler and IDE for PyTorch.
+- 🏮 [**RedLantern**](https://github.com/DewashishCodes/RedLantern): cuts prompt tokens up to 68% via Mandarin.
+- 🔍 [**OCR-Forge-CLI**](https://github.com/DewashishCodes/OCR-Forge-CLI) · 🪗 [**amuseUSB**](https://github.com/DewashishCodes/amuseUSB) · 💻 [**Attores-Studio**](https://github.com/DewashishCodes/Attores-Studio)
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,kotlin,androidstudio,pytorch,fastapi,docker,aws,gcp,cloudflare,postgres,mysql,nextjs,tailwind&perline=14" />
+</p>
+
+<p align="center"><sub>LangChain · Hugging Face · Hermes · RAG · CUDA</sub></p>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dewashish-lambore-927048318/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/DewashishHL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
-  </a>
-</div>
-
-###
-
-<p align="center">🎙️ <b>Founder, <a href="https://getyap.pages.dev">Yap</a></b><br>🔮 <b>Founding Engineer, Astrowithin</b><br>🖥️ <b>AI Research at SCAAI</b>, Pune<br>🎓 <b>Amazon ML Summer School 2026</b><br>🥈 <b>2nd Runner-Up</b> out of 600+ teams in Google Developer Group's 2Fast2Hack<br>🎯 Ranked <b>Top 180 among 46,178</b> participants in Bajaj Finserv HackRx 6.0</p>
-
-###
-
-## 🚀 Building
-
-<a href="https://getyap.pages.dev"><img src="yap-logo.svg" height="28" align="left" alt="Yap logo" /></a> <a href="https://getyap.pages.dev"><b>Yap</b></a> — Voice typing for Android, built for how India talks. Speak in Hinglish, English, Hindi or Marathi and Yap types clean, ready-to-send text in any app, even turning Hinglish into polished English. Floating dictation bubble, AI cleanup, voice editing and read-aloud, on a Cloudflare Workers backend. Now in early access.
-
-[Website](https://getyap.pages.dev) · [Instagram](https://instagram.com/yap.voice) · [GitHub](https://github.com/yap-voice)
-
-## Current Projects
-
-- 💰 [Janus](https://github.com/DewashishCodes/Janus) — AI revenue-recovery agent for failed payments, broken mandates and B2B receivables. Root-cause detection, guardrailed recovery actions across SMS/email/voice, and a full per-case audit trail. Built for the Razorpay Buildathon.
-- 🏛️ [Takshashila](https://github.com/DewashishCodes/takshashila) — Multi-agent Claude Code orchestration platform with persistent agent workspaces, long-term memory, real terminals and visual task routing.
-- 📊 [Tokenmeter](https://github.com/DewashishCodes/tokenmeter) — Local-first Claude Code token usage dashboard for Windows. Costs, heatmap, cache savings and a pixel companion.
-- 🛡️ [BharatPrivacyPrint](https://github.com/DewashishCodes/bharatprivacyprint) — Zero-knowledge document sharing PWA for Tier 2/3 India. Aadhaar/PAN links that self-destruct after printing, because 85K+ annual frauds start at print shops.
-- 🐬 [Dolphin](https://github.com/DewashishCodes/dolphin) — Open-source persistent memory infrastructure for LLM applications.
-- 📄 [Mycelium](https://github.com/DewashishCodes/mycelium) — Version control CLI for CVs (basically git for resumes), built in Go.
-- 🔥 [VisualTorch](https://github.com/DewashishCodes/VisualTorch) — Local-first visual compiler and IDE prototype for PyTorch.
-- 🏮 [RedLantern](https://github.com/DewashishCodes/RedLantern) — Token efficiency optimizer for Google AI Studio. Converts prompts to Mandarin to save up to 68% of tokens in some cases.
-- 🧠 [E2E Multimodal RAG Pipeline](https://github.com/DewashishCodes/HackrX6.0_Claud9) — Industry-grade multimodal RAG pipeline that processes 800+ page documents and answers within 18 seconds.
-- 🪗 [amuseUSB](https://github.com/DewashishCodes/amuseUSB) — Scans your existing songs, generates AI recommendations and batch-downloads new MP3 tracks directly to your USB drive.
-- 🔍 [OCR-Forge-CLI](https://github.com/DewashishCodes/OCR-Forge-CLI) — Command-line agent that captures screen text, runs OCR on it and responds with LLM-powered answers.
-- 💻 [Attores-Studio](https://github.com/DewashishCodes/Attores-Studio) — AI-first IDE prototype for Python, with multi-window support and a live AI agent.
-
-## Research
-
-- 📄 **IEEE IRAI 2026** — Published research on diffusion-based synthetic EEG generation.
-- 🧠 [DeepMind HOPE (PyTorch)](https://github.com/DewashishCodes/Nested-Learning) — Reimplemented the HOPE architecture from scratch with differentiable memory and nested optimization.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DewashishCodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=DewashishCodes&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=DewashishCodes&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DewashishCodes&radius=16&theme=gotham&area=true&order=5" height="200" alt="activity-graph graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DewashishCodes.DewashishCodes&" />
+  <img src="https://streak-stats.demolab.com?user=DewashishCodes&theme=gotham&hide_border=true&border_radius=8" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DewashishCodes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top languages" />
 </div>
