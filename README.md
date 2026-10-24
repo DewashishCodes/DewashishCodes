@@ -48,6 +48,7 @@ Speak in Hinglish, English, Hindi or Marathi and Yap types clean, ready-to-send 
 
 **🤖 AI agents & infrastructure**
 
+- 🏢 [**Agent Office**](https://github.com/DewashishCodes/agent-office): a dev team of Claude Code agents you run from your phone. You give the order; they plan, build, review and test it as pull requests; you tap merge.
 - 💰 [**Janus**](https://github.com/DewashishCodes/Janus): AI revenue-recovery agent for failed payments and B2B receivables, with guardrailed actions and a full audit trail. Razorpay Buildathon.
 - 🏛️ [**Takshashila**](https://github.com/DewashishCodes/takshashila): multi-agent Claude Code orchestration with persistent workspaces and memory.
 - 🐬 [**Dolphin**](https://github.com/DewashishCodes/dolphin): open-source persistent memory for LLM apps.
