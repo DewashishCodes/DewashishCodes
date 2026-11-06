@@ -88,4 +88,4 @@ Speak in Hinglish, English, Hindi or Marathi and Yap types clean, ready-to-send 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DewashishCodes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top languages" />
 </div>
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img align='center' src="koi/koi.gif" width="256" alt="My koi" />
